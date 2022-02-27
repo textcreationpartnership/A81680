@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A strange and wonderful prophesie of Mr. Douglas a Scotchman; written by his own hand, and sent to their young King, full of wonder and admiration: wherein he foretels the great things that shall befall his person, this present yea[r] [1]651. VVith a great battel to be fought on the 15. of May next, between the English and the Scots, the event and success thereof 20. Lords to b[e] beheaded, and 20000 horse and foot totally vanquished and subdued, and what [shall] happen upon the obtaining this great victory. Also the S[c]ots Kings dream, the same night, after he was crowned, concerning England, Scotland, and Ireland, and by himself interpreted, and delivered to the Lord of his privie councel; VVith the strange apparation that appeared to him in the said dream, and the Lord Ogleby his speech touching the same. Signed by James Douglas, the authour of these prophetical observations, and licensed according to order.</title>
+            <author>Queensberry, James Douglas, Duke of, 1662-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81680</idno>
+            <idno type="STC">Wing D2023</idno>
+            <idno type="STC">Thomason E622_6</idno>
+            <idno type="STC">ESTC R206431</idno>
+            <idno type="EEBO-CITATION">99865593</idno>
+            <idno type="PROQUEST">99865593</idno>
+            <idno type="VID">117839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117839)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E622[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A strange and wonderful prophesie of Mr. Douglas a Scotchman; written by his own hand, and sent to their young King, full of wonder and admiration: wherein he foretels the great things that shall befall his person, this present yea[r] [1]651. VVith a great battel to be fought on the 15. of May next, between the English and the Scots, the event and success thereof 20. Lords to b[e] beheaded, and 20000 horse and foot totally vanquished and subdued, and what [shall] happen upon the obtaining this great victory. Also the S[c]ots Kings dream, the same night, after he was crowned, concerning England, Scotland, and Ireland, and by himself interpreted, and delivered to the Lord of his privie councel; VVith the strange apparation that appeared to him in the said dream, and the Lord Ogleby his speech touching the same. Signed by James Douglas, the authour of these prophetical observations, and licensed according to order.</title>
+                  <author>Queensberry, James Douglas, Duke of, 1662-1711.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a titlepage woodcut.</note>
+                  <note>Annotation on Thomason copy: "Jan: 22 1650", the 51 in imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  17th century.</term>
+               <term>Great Britain --  History --  Commonweath and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117839:1" rendition="simple:additions"/>
+            <p>A ſtrange and wonderful PROPHESIE OF Mr. <hi>Douglas</hi> a <hi>Scotchman;</hi> written by his own Hand, and ſent to their young King, full of wonder and admiration: wherein he foretels the great things that ſhall befall his Perſon, this preſent year 651. VVith a great Battel to be fought on the 15. of <hi>May</hi> next, between the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> and the <hi>Scots,</hi> the event and ſucceſs thereof 20. Lords to b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>beheaded and 20000 Horſe and foot totally vanquiſhed and ſubdued, and what man hap<g ref="char:EOLhyphen"/>pen upon the obtaining this great Victory. Alſo the <hi>Scots</hi> Kings Dream, the ſame night, after he was crowned, concerning <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and by himſelf interpreted, and delivered to the Lord of his privie Councel; VVith the ſtrange Apparation that appeared to him in the ſaid Dream, and the Lord <hi>Ogleby</hi> his Speech touching the ſame.</p>
+            <p>
+               <hi>Signed by James Douglas, the Authour of theſe prophetical Obſervations, and Licenſed according to Order.</hi>
+            </p>
+            <figure>
+               <sp>
+                  <p>Behold, and reade.</p>
+               </sp>
+               <sp>
+                  <p>For Loyalty, tis now I die.</p>
+               </sp>
+               <figDesc>an execution by beheading</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON, Printed by</hi> J.C. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:117839:2"/>
+            <pb n="1" facs="tcp:117839:2"/>
+            <head>A ſtrange and wonderful Propheſie of Mr. <hi>James Douglas,</hi> a <hi>Scotchman,</hi> &amp;c.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prophecy">
+                        <opener>
+                           <salute>Courteous Reader,</salute>
+                        </opener>
+                        <p>
+                           <seg rend="decorInit">S</seg>Cotland being the Seat of VVarre, on which all <hi>Europe</hi> (at this preſent) have fixt a moſt ſtedfaſt and vigilent eye; and conſidering that there are many things of great concernment and per<g ref="char:EOLhyphen"/>tinency, that have not as yet been pre<g ref="char:EOLhyphen"/>ſented to publick view: I ſhall there<g ref="char:EOLhyphen"/>fore endeavour to repreſent thee with a moſt faithful and infallible Narrative in relation thereunto, and the firſt thing that I inſiſt upon ſhall be, the ſtrange and wonderful Propheſie of a dumb <hi>Scot,</hi> living in the Town of <hi>Sterling,</hi> aged about
+50. and writ<g ref="char:EOLhyphen"/>ten with his own hand, which followeth in theſe words, <hi>viz.</hi>
+                        </p>
+                        <q>
+                           <l>The Wars ſhall begîn in the Spring,</l>
+                           <l>Much woe to Scotland it ſhall bring;</l>
+                           <l>Then ſhall the Lads cry well away,</l>
+                           <l>That ever we liv'd to ſee this day.</l>
+                        </q>
+                        <pb n="2" facs="tcp:117839:3"/>
+                        <p>For the beginning of the moneth of <hi>May,</hi> 165 <abbr>
+                              <hi>1.</hi>
+                           </abbr> a great battel ſhall be fought between the <hi>Engliſh</hi> and the <hi>Scots,</hi> and that for the ſpace of 10 hours, the Victory ſhall ſeem both dublous and doubtful; but at laſt it ſhall fall to the <hi>Engliſh,</hi> and their heads ſhall be crowned with the Trophies thereof; inſomuch, that above 20000 <hi>Scots</hi> ſhall be totally ſubdued, their Lieut. Gen. and many other Officers of note, taken and killed; and their King himſelf enforced to a poor Cottage in the North Iſlands with a ſmall party, where ſhall come an old woman with an Axe, and ſhall ſay to him, what art thou? and he ſhall anſwer and ſay, with tears trick<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing upon his cheeks, I am the King of <hi>Scots:</hi> Then ſhall ſhe make this re<g ref="char:EOLhyphen"/>ply, make haſte and be gone for thy enemies are near at hand, and betake thy ſelf to the Iſlands of <hi>Orkney,</hi> where a ſtrong Band of men ſhall unite together for thy ſafegard and ſecuri<g ref="char:EOLhyphen"/>ty: This being done, he ſhall them attempt to take the field again, which ſhall prove more fatal then the former; inſo<g ref="char:EOLhyphen"/>much, that treachery, either by Sword or Bullet, threatens to take him off, and above 20. Noblemen ſhall looſe their heads. Then ſhall the <hi>Engliſh</hi> ſummon Sterling Caſtle; and towards the latter end of
+<hi>June,</hi> it ſhall be ſurrendred: After this St. <hi>Johnſtons</hi> ſhall yield, and many other formidable Caſtles in the North; but the Quarrel diſputable till <hi>Auguſt,</hi> at which time an agreement ſhall be made, and the whole Confines of Scotland, become ſubject and obedient to the Parl. of Eng<g ref="char:EOLhyphen"/>land; the Scotch King ſhall end his days in the field, and none of that race or Family for the future, ſhall annoy either Eng<g ref="char:EOLhyphen"/>land, Scotland, or Ireland.</p>
+                        <p>And further, this dumb Prophet verifies at what time this great Battel ſhall be fought, which verſes with great Art, he incloſed in a paper, and ſent to the King, a Copy whereof fol<g ref="char:EOLhyphen"/>lowetn.</p>
+                        <q>
+                           <l>The <hi>15</hi> of this moneth of May,</l>
+                           <l>Shall be a ſad diſaſtrous day;</l>
+                           <l>And they that <hi>Charles</hi> his part do take</l>
+                           <l>Shall dearly ſuffer for his ſake:</l>
+                           <l>And many of his friends ſhall fly,</l>
+                           <l>Like duſt before the Enemy</l>
+                        </q>
+                        <pb n="3" facs="tcp:117839:3"/>
+                        <p>Theſe lines were written by the Authour, and his name with this furth repoſition prefixed.</p>
+                        <closer>
+                           <signed>Signed by James Douglas, an enemy to the uſurping Nor<g ref="char:EOLhyphen"/>man Race, a cordial friend to truth and unſpotted liberty, and a loyal Native to the freedom of his Countrey,
+<hi>&amp;c.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The young King had no ſooner peruſed theſe deſpicable lines, but he waxed exceeding wroth, giving ſtrict charge and Command, that he ſhould forthwith be committed to ſafe Cuſtody; and accordingly he was with great rigour ſent to Sterling Caſtle, where he now remains cloſe priſoner; but by the help of ſome friends, promiſing Pen, Ink, and Paper, wrote this enſuing Declaration.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <p>God the abſolute Soveraign Lord and King of all things in Heaven and Earth, the original Fountain and cauſe of all cau<g ref="char:EOLhyphen"/>ſes, who is circumſcribed, governed, and limitted by no Rules, but doth all things merely and only by his Soveraign will and unlimited good pleaſure, who made the world, and all things therein, for his own glory, and who by his own will and plea<g ref="char:EOLhyphen"/>ſure gave man (his mere Creature) the ſoveraignty (under himſelf) over all the reſt of his Creatures, and endued him with a rational ſoul or underſtanding, and thereby created him after his own Image, and by his Soveraign and abſolute creating power, made a female or woman, called
+<hi>Eve,</hi> which two, and the earthly original Fountain, as begetters, and bringers forth of all and every particular and individual man, and woman, that ever breathed in the world ſinck, who are and were by nature all alike in power, dignity, Authority, and Majeſty, none of them having any Authority, Dominion, or Magiſterial Power, one over or above another, but by inſtitu<g ref="char:EOLhyphen"/>on or Donation, that is to ſay, by mutual agreement or con<g ref="char:EOLhyphen"/>ſent given, derived or aſſumed by mutual conſent and agree<g ref="char:EOLhyphen"/>ment, for the good, benefit, and comfort each of other, and not for the miſchief, hurt, or damage of any, it being unna<g ref="char:EOLhyphen"/>tural, irrational, ſinful, wicked, and unjuſt for any man or men whatſoever, to part with ſo much of their power, as ſhall in<g ref="char:EOLhyphen"/>able a Prince to deſtroy and undo them therewith.</p>
+                        <pb n="4" facs="tcp:117839:4"/>
+                        <p>And unnatural, irrational, ſinful, wicked, unjuſt, diveliſh, and tyranical; it is for a Prince to appropriate and aſſume unto himſelf, a Power, Authority and jurisdiction to unite, govern, or raign over any ſort of men in the world, without their free conſent; and he that doth it, does thereby as much as in him lies, endeavour to appropriate and aſſume unto him<g ref="char:EOLhyphen"/>ſelf the Office and Soveraignty of GOD, who alone doth, and is to rule by his will and pleaſure. And wickedneſs [in the higheſt] it is for any King to raign and govern by his Prero<g ref="char:EOLhyphen"/>gative, will and pleaſure; although his late Father <hi>Charles</hi> the firſt, would needs maintain this erroneous maxime, <hi>That Kingdoms are Kings own, and that they may do with them what they will;</hi> as if Kingdoms were for them, and not they for their Kingdoms: Therefore again, I ſay, that their ways are wicked, unjuſt, and tyranical; and as it is a great wickedneſs for any ſort of men o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſuffer them ſo to do, ſo it is a great ſin and preſumption of all Gods Saints, if they do not uſe all poſſible means for the caſting off the yoke of uſurpation and tyranny.</p>
+                        <closer>
+                           <dateline>
+                              <hi>From my Captivity in Sterling Caſtle,</hi>
+                              <date>
+                                 <hi>this</hi> 8. <hi>of Jan.</hi> 1651.</date>
+                           </dateline>
+                           <signed>J. DOUGLAS.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Since the writing of this <hi>Declaration,</hi> the prophetical <hi>Scot</hi> having received advertiſement, that the King was crowned, deſired to ſpeak with his Keeper, who coming to him, took him by the hand, uttering theſe words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>My bony Lad and prerogative Goaler,</salute>
+                        </opener>
+                        <p>I Underſtond that your good Stuart is crowned, and that he intends to cauſe a great Army forthwith, to march a<g ref="char:EOLhyphen"/>gainſt the <hi>Engliſh</hi> Saints; but I tell thee, he hath had ſuch a Dream, in relation to them, that his Majeſtical ſpirits are not a little danted; and withall, take notice, that when he march<g ref="char:EOLhyphen"/>eth over <hi>Sterling-Bridge,</hi> to give them battel, the tame and domeſtigne fowls, as <hi>Hens, Geeſe, Peacocks,</hi> and the like, ſhall all vaniſh, and fly to the Mountains, and become exceed<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:117839:4"/>wild; but after the fight is over, they ſhall all of them return again to their reſpective places, where formerly they were bred up. The Goaler hearing this, reproved him, and ſwore by his ſoul he was a mad man; and ſo lockt the doors and departed; but within two days after, he came to him a<g ref="char:EOLhyphen"/>gain, having heard what the dream was, and asked him, whe<g ref="char:EOLhyphen"/>ther he could expound the Kings Dream, which he formerly told him of; he anſwered yes: well, pray let me hear it then, quoth the Goaler; why, ſaid Prophet <hi>Douglas,</hi> the ſame night following that he was crowned, falling into a ſlumber, he dreamed, that he ſhould never wear the Crown of <hi>England,</hi> and <hi>Ireland,</hi> &amp;c.</p>
+                        <p>VVith that the Goaler ſhooke his head and departed, and acquainted the Governour with the miraculous things, re<g ref="char:EOLhyphen"/>vealed by the Prophet; inſomuch, that the ſaid Governour ſeemed to be very well ſatisfied therewith, and ordered him fire and other Proviſions, which before he was reſtrained of; but it is with as much ſecreſie that may be.</p>
+                        <p>The Dream before hinted at is ſaid to be thus. That on the ſecond of <hi>Jan.</hi> in the morning, many of the Nobles of <hi>Scotland,</hi> went to give the King a viſit, and coming into his Bed-chamber, according to their uſual Cuſtome, ſaid, <hi>Good morrow my Liege for all day;</hi> but finding him to be ſomewhat ſad, the Lord <hi>Ogleby</hi> asked him the reaſon and cauſe of his me<g ref="char:EOLhyphen"/>lancholy humour; who replyed, That he was much troubled the laſt night, and that in a ſlumber he fell into a Dream, at which inſtance, he eſpyed a poor Spider, with one Crown, as it were hanging over its head, tranſcending and working her ſelf lower and lower by a Cobweb-thread, and at laſt he eſpy<g ref="char:EOLhyphen"/>ed two other Crowns at the end of the thread; and the Spi<g ref="char:EOLhyphen"/>der endeavouring to work her ſelf down to them, imediately fell and loſt all; upon which, awaking, he began to meditate and commune with himſelf, what had been ſuggeſted to him, by apparation in a Dream; and upon ſerious cogitancy there<g ref="char:EOLhyphen"/>upon, theſe thoughts poſſeſſed him, That upon the adventu<g ref="char:EOLhyphen"/>ring one Crown, to gain two, he was very doubtful he ſhould hazard the loſſe of three, <hi>&amp;c.</hi>
+                        </p>
+                        <pb n="6" facs="tcp:117839:5"/>
+                        <p>But the Lord <hi>Ogleby</hi> put it off with a laughter, ſaying, that Dreams were but fables,
+<hi>&amp;c.</hi>
+                        </p>
+                        <p>The <hi>Scot</hi> is now more full of prophetical Predictions, then Martial actions; for another of their gude Lairds hath fore<g ref="char:EOLhyphen"/>told, the dread and terrour that ſhall befall them this year,
+16<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>5. by the <hi>Engliſh;</hi> and moreover, he doth further af<g ref="char:EOLhyphen"/>firm, That the Son of the Eagle, ſhall in this enſuing year, have his wings ſo cloſe cut, by an <hi>Engliſh</hi> Rampart, that he ſhall be wholly ſubdued and utterly diſcomfited, and depri<g ref="char:EOLhyphen"/>ved of all earthly bliſs and happineſs, and that after three Bat<g ref="char:EOLhyphen"/>tels fought for the faith, the Land ſhall be quite over-run and conquered, and then there ſhall be a firm and univerſal peace, throughout three Nations of <hi>Scotland, England,</hi> and
+<hi>Ireland.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
